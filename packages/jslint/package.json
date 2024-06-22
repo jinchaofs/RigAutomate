@@ -1,0 +1,17 @@
+{
+  "name": "@rig/jslint",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/jslint.esm.js",
+  "types": "lib/types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.11"
+  }
+}
